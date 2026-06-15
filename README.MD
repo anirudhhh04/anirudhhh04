@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh P</h1>
 
 
-Coding Enthusiast •  BTech CSE Student
+<p align="center"> Coding Enthusiast •  BTech CSE Student </p>
 
 
 
