@@ -16,7 +16,7 @@ Coding Enthusiast • UG BTech CSE Student
 
 ## 🌐 Socials
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/anirudh-p-abc">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
