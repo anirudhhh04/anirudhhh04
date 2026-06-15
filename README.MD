@@ -4,7 +4,7 @@
 Coding Enthusiast •  BTech CSE Student
 
 
---
+
 
 ## 🌐 Socials
 
@@ -18,7 +18,7 @@ Coding Enthusiast •  BTech CSE Student
 </a>
 </p>
 
----
+
 
 ## 💻 Languages & Tools
 
@@ -27,7 +27,7 @@ Coding Enthusiast •  BTech CSE Student
 </p>
 
 
----
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -38,4 +38,4 @@ Coding Enthusiast •  BTech CSE Student
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhhh04&layout=compact&theme=tokyonight"/>
 </p>
 
----
+
