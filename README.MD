@@ -6,14 +6,6 @@ Coding Enthusiast •  BTech CSE Student
 
 ---
 
-## 💻 Languages & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,java,mysql,mongodb,git,github,linux,vscode" />
-</p>
-
----
-
 ## 🌐 Socials
 
 <p align="left">
@@ -25,6 +17,15 @@ Coding Enthusiast •  BTech CSE Student
 <img src="https://skillicons.dev/icons?i=instagram" height="48" />
 </a>
 </p>
+
+---
+
+## 💻 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,java,mysql,mongodb,git,github,linux,vscode" />
+</p>
+
 
 ---
 ## 📊 GitHub Stats
