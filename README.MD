@@ -13,17 +13,23 @@ Coding Enthusiast • UG BTech CSE Student
 </p>
 
 ---
+
 ## 🌐 Socials
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anirudh-p-abc">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="48" />
 </a>
 
+<a href="https://www.instagram.com/_anirudhhh___">
+<img src="https://skillicons.dev/icons?i=instagram" height="48" />
+</a>
+</p>
 <a href="https://www.instagram.com/_anirudhhh___">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </p>
+
 ---
 ## 📊 GitHub Stats
 
