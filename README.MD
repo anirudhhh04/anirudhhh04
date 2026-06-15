@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh P</h1>
 
 <h3 align="center">
-Coding Enthusiast • UG BTech Student
+Coding Enthusiast • UG BTech CSE Student
 </h3>
 
 ---
@@ -9,7 +9,7 @@ Coding Enthusiast • UG BTech Student
 ## 💻 Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,java,mysql,mongodb,git,github,linux,vscode" />
 </p>
 
 ---
