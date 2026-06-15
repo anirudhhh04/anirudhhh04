@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh P</h1>
 
 
-Coding Enthusiast • UG BTech CSE Student
+Coding Enthusiast •  BTech CSE Student
 
 
 ---
