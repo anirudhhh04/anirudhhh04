@@ -34,8 +34,7 @@ Coding Enthusiast •  BTech CSE Student
 </p>
 
 <p align="center">
-<!-- CHANGED: Added hide=jupyter%20notebook -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhhh04&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhhh04&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
