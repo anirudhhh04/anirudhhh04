@@ -6,7 +6,7 @@
 
 
 
-## 🌐 Socials
+## Socials
 
 <p align="left">
 <a href="https://www.linkedin.com/in/anirudh-p-abc">
@@ -20,7 +20,7 @@
 
 
 
-## 💻 Languages & Tools
+## Languages & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,java,mysql,mongodb,git,github,linux,vscode" />
@@ -28,7 +28,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anirudhhh04&show_icons=true&theme=tokyonight"/>
