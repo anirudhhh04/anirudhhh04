@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anirudh P</h1>
+<h1 align="center">Hi, I'm Anirudh P</h1>
 
 
 <p align="center"> Coding Enthusiast •  BTech CSE Student </p>
@@ -17,6 +17,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="48" />
 </a>
 </p>
+![](https://komarev.com/ghpvc/?username=anirudhhh04&style=for-the-badge)
 
 
 
