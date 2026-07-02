@@ -17,6 +17,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="48" />
 </a>
 </p>
+
 ![](https://komarev.com/ghpvc/?username=anirudhhh04&style=for-the-badge)
 
 
